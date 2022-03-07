@@ -1,0 +1,4 @@
+github.com/yamamoto-febc/module-child v0.0.0-20220307003713-fb8fab9d76a5 h1:LgAfhlMJdlw2gWClUZyAzRcvQFMb0x48inoZlmozS6k=
+github.com/yamamoto-febc/module-child v0.0.0-20220307003713-fb8fab9d76a5/go.mod h1:xVfo+DU0l0nSf6L7fxl78AkuDw3NTkBiBIpXxJLiV0c=
+github.com/yamamoto-febc/module-parent/pkg v0.0.0-20220307003532-cacd04b91022 h1:gK6YHjq/56KUAlqGM+saI2EnelfW+opetjineBm35uk=
+github.com/yamamoto-febc/module-parent/pkg v0.0.0-20220307003532-cacd04b91022/go.mod h1:s1AQ2S9TGrRPq3U4BV0eBO/f15Mimq+Vzuh4umK6khA=

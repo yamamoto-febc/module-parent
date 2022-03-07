@@ -1,9 +1,10 @@
-package main
+package parent
 
 import (
 	"fmt"
+	child "github.com/yamamoto-febc/module-child"
 )
 
-func main() {
-	fmt.Println("TODO")
+func Foobar() {
+	fmt.Println(child.FooBar() + " from parent")
 }
